@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Masrawy</string>
+
+    <string name="title_section1">الاخبار</string>
+    <string name="title_section2">رياضه</string>
+    <string name="title_section3">سيارات</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
